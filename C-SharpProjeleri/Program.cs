@@ -8,7 +8,8 @@ namespace C_SharpProjeleri
         {
             KolaySeviyeProjeler yeni = new KolaySeviyeProjeler();
             //yeni.TerstenYazdır();
-            yeni.Algoritma();
+            //yeni.Algoritma();
+           
         } 
     }
 }

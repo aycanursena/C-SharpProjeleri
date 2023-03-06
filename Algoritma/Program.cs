@@ -1,14 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace C_SharpProjeleri
+﻿namespace Algoritma
 {
-    internal class KolaySeviyeProjeler
+    internal class Program
     {
-        public void Algoritma()
+        static void Main(string[] args)
         {
             bool sayiMi = false;
             int x = 0;
@@ -20,7 +14,7 @@ namespace C_SharpProjeleri
             List<string> kelimeler = new List<string>();
 
             foreach (var item in girilenDeger)
-            {     
+            {
                 try
                 {
                     int a = int.Parse(item);
@@ -48,6 +42,5 @@ namespace C_SharpProjeleri
                 Console.WriteLine();
             }
         }
-         
     }
 }
