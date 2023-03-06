@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlanHesaplama", "AlanHesaplama\AlanHesaplama.csproj", "{CD6BEA33-072D-4410-B14E-712BEB20A8B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlanHesaplama", "AlanHesaplama\AlanHesaplama.csproj", "{CD6BEA33-072D-4410-B14E-712BEB20A8B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TerstenYazdir", "TerstenYazdir\TerstenYazdir.csproj", "{C258DBD7-FCAD-4714-ADF7-8367C7AFF9EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TerstenYazdir", "TerstenYazdir\TerstenYazdir.csproj", "{C258DBD7-FCAD-4714-ADF7-8367C7AFF9EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma", "Algoritma\Algoritma.csproj", "{D9FF44C4-6E36-48AE-89EE-B26A397431DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritma", "Algoritma\Algoritma.csproj", "{D9FF44C4-6E36-48AE-89EE-B26A397431DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkiliHesaplama", "IkiliHesaplama\IkiliHesaplama.csproj", "{6D39FCE3-E4DD-4787-AB36-1FA55B19D5EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IkiliHesaplama", "IkiliHesaplama\IkiliHesaplama.csproj", "{6D39FCE3-E4DD-4787-AB36-1FA55B19D5EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutlakKareAlma", "MutlakKareAlma\MutlakKareAlma.csproj", "{F7659F0B-8B20-4759-8439-5ABE86CE220F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MutlakKareAlma", "MutlakKareAlma\MutlakKareAlma.csproj", "{F7659F0B-8B20-4759-8439-5ABE86CE220F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessizHarf", "SessizHarf\SessizHarf.csproj", "{E4AC2B31-255E-42B8-BD8C-27348FEA92E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SessizHarf", "SessizHarf\SessizHarf.csproj", "{E4AC2B31-255E-42B8-BD8C-27348FEA92E9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VotingUygulamasi", "VotingUygulamasi\VotingUygulamasi.csproj", "{73663FF2-CE44-4C26-9C8F-125B00A5EFFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciOrtalamaHesaplama", "FibonacciOrtalamaHesaplama\FibonacciOrtalamaHesaplama.csproj", "{77FDA63F-ACB6-44D1-ACB5-D406ECC56894}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{E4AC2B31-255E-42B8-BD8C-27348FEA92E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4AC2B31-255E-42B8-BD8C-27348FEA92E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4AC2B31-255E-42B8-BD8C-27348FEA92E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73663FF2-CE44-4C26-9C8F-125B00A5EFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73663FF2-CE44-4C26-9C8F-125B00A5EFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73663FF2-CE44-4C26-9C8F-125B00A5EFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73663FF2-CE44-4C26-9C8F-125B00A5EFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77FDA63F-ACB6-44D1-ACB5-D406ECC56894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77FDA63F-ACB6-44D1-ACB5-D406ECC56894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77FDA63F-ACB6-44D1-ACB5-D406ECC56894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77FDA63F-ACB6-44D1-ACB5-D406ECC56894}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
