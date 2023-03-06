@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkiliHesaplama", "IkiliHesa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutlakKareAlma", "MutlakKareAlma\MutlakKareAlma.csproj", "{F7659F0B-8B20-4759-8439-5ABE86CE220F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SessizHarf", "SessizHarf\SessizHarf.csproj", "{E4AC2B31-255E-42B8-BD8C-27348FEA92E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F7659F0B-8B20-4759-8439-5ABE86CE220F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7659F0B-8B20-4759-8439-5ABE86CE220F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7659F0B-8B20-4759-8439-5ABE86CE220F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4AC2B31-255E-42B8-BD8C-27348FEA92E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4AC2B31-255E-42B8-BD8C-27348FEA92E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4AC2B31-255E-42B8-BD8C-27348FEA92E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4AC2B31-255E-42B8-BD8C-27348FEA92E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
