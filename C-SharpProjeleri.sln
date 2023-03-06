@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritma", "Algoritma\Algo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IkiliHesaplama", "IkiliHesaplama\IkiliHesaplama.csproj", "{6D39FCE3-E4DD-4787-AB36-1FA55B19D5EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MutlakKareAlma", "MutlakKareAlma\MutlakKareAlma.csproj", "{F7659F0B-8B20-4759-8439-5ABE86CE220F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6D39FCE3-E4DD-4787-AB36-1FA55B19D5EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D39FCE3-E4DD-4787-AB36-1FA55B19D5EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D39FCE3-E4DD-4787-AB36-1FA55B19D5EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7659F0B-8B20-4759-8439-5ABE86CE220F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7659F0B-8B20-4759-8439-5ABE86CE220F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7659F0B-8B20-4759-8439-5ABE86CE220F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7659F0B-8B20-4759-8439-5ABE86CE220F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
