@@ -7,11 +7,9 @@ namespace AlanHesaplama
     {
         static void Main(string[] args)
         {
-            
-           Metotlar yeni = new Metotlar();
+            // Metotlar sınıfından nesne (yeni) oluşturularak işlem menüsüne erişim sağlanmaktadır.
+            Metotlar yeni = new Metotlar();
             yeni.IslemMenusu();
-
-           
         }
         
     }
